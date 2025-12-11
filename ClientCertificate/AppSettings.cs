@@ -4,7 +4,6 @@
     {
         public string TenantId { get; set; }
         public string ClientId { get; set; }
-        public string Scopes { get; set; }
         public string DefaultScope { get; set; }
         public string CertificatePath { get; set; }
         public string CertificateBase64 { get; set; }
